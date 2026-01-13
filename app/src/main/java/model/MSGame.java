@@ -18,7 +18,7 @@ public class MSGame {
     private EventLog log;
     private JsonWriter jsonWriter;
     private JsonReader jsonReader;
-    private static final String JSON_STORE = "./data/gameState.json";
+    private static final String JSON_STORE = "app/data/gameState.json";
 
     // represents the math souls game
     public MSGame() {

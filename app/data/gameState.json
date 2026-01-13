@@ -1,0 +1,21 @@
+{
+    "Highest Stage Completion": 0,
+    "player": {
+        "abilities": [
+            {
+                "name": "Fireball",
+                "description": "Deals 50 damage"
+            },
+            {
+                "name": "Heal",
+                "description": "Heals 50 health"
+            }
+        ],
+        "level": 11,
+        "attack": 175,
+        "name": "sdsd",
+        "xp": 1610,
+        "health": 925,
+        "levelSinceLastAbility": 9
+    }
+}
